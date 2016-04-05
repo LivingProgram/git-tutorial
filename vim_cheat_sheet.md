@@ -1,6 +1,10 @@
 Basic Vim Cheat Sheet
 > Cheat sheet for the controls in the Vim text editor (for full array of commands look at the `vimtutor`
 
+To enter the vim editor:
+
+`vi FileName`
+
 Move up:
 
 `j`
